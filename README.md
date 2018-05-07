@@ -27,7 +27,3 @@ ___
 
 * python sky.py
 ___
-
-![screenshot from 2018-05-07 20-34-20](https://user-images.githubusercontent.com/38928236/39727589-9d576ad4-5253-11e8-9e2f-85075441486f.png)
-
-![screenshot from 2018-05-07 20-42-34](https://user-images.githubusercontent.com/38928236/39727597-a2e4d112-5253-11e8-90ea-8d2e055833ab.png)
