@@ -26,6 +26,8 @@ ___
 * chmod +x sky.py
 
 * python sky.py
+
+* example: python sky.py 192.168.x.x
 ___
 
 
